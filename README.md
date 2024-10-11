@@ -13,5 +13,9 @@ Currently, two official plugins are available:
 - When user click on any task (or any to-do list) then it will be marked a completed or incomplete task. User can also delete the to-do items from the list using the delete icon (bin icon).
 
 - This To-Do Task list will be saved in the browser, so that when we open the browser again we will find all our saved To-Do list / task list. To design this React App we will use Tailwind CSS.
-- 
+
+- ScreenShots
 <img width="960" alt="2024-10-11" src="https://github.com/user-attachments/assets/b9b6893b-3841-4b57-86bf-d7ba7cc79205">
+<img width="517" alt="2024-10-11 (2)" src="https://github.com/user-attachments/assets/e415020a-e22a-4036-94c4-715138076095">
+<img width="501" alt="2024-10-11 (4)" src="https://github.com/user-attachments/assets/b4a5d66b-61f5-449f-ae71-e1583800b054">
+
